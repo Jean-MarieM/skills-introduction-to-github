@@ -25,6 +25,7 @@ In this exercise, you will:
 3. Open a pull request
 4. Merge your pull request
 5. Bla bla bla
+6. Bli bli bli
 
 ### How to start this exercise
 
