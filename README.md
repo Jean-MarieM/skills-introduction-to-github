@@ -24,6 +24,7 @@ In this exercise, you will:
 2. Commit a file
 3. Open a pull request
 4. Merge your pull request
+5. Bla bla bla
 
 ### How to start this exercise
 
